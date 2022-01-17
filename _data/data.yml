@@ -34,9 +34,6 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom: 
-        level: 
-
     interests:
       - item: Tecnology
         link:
@@ -47,11 +44,6 @@ sidebar:
       - item: Reading
         link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Para remover.
-      Second paragraph if required.
 education:
     - degree: Business Management
       university: Universidade Aberta
