@@ -85,17 +85,14 @@ experiences:
        
     - role: Licensing Department
       time: 2000 - 2002
-      company: Amazon, London
+      company: Sociedade Portuguesa de Autores | SPA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Rights collection management
+        Payment issue towards users
+        Issuing Author (or representing legal agency) proportional royalties
+
 projects:
-    title: Projects
+    title: 
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
