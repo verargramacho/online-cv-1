@@ -1,4 +1,4 @@
-#
+ive#
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
@@ -60,21 +60,17 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Executive producer
+      time: 2009 - Present
+      company: Centro Cultural de Belém | CCB
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Contract drafting and execution contro, including legal aid
+        Budget management
+        Liasing amongst different internal departments and external suppliers
+        Provide all technical necessities for the event
+        Provide artists and staff crew accommodations, flights, visas, transportation between airports, hotel and venue
+        Events: Music Concerts, Opera, Dance, Theatre, Cinema and conferences.
+
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
